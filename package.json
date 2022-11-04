@@ -34,7 +34,7 @@
     "bourbon": "^5.1.0",
     "bourbon-neat": "^3.0.1",
     "jquery": "^3.3.1",
-    "neat": "^1.2.2",
+    "neat": "^2.1.0",
     "node-gyp": "^4.0.0",
     "normalize.css": "^8.0.1",
     "web-audio-api": "^0.2.2"
